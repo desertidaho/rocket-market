@@ -1,0 +1,8 @@
+{
+  "name": "RocketMarket",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "77188a8f"
+}
